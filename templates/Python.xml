@@ -1,0 +1,9 @@
+<templateSet group="Python">
+  <template name="class" value="class $className$ (object):&#10;    &quot;&quot;&quot;$des$&quot;&quot;&quot;&#10;    pass" description="class className(object):" toReformat="true" toShortenFQNames="true">
+    <variable name="className" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="des" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="Python" value="true" />
+    </context>
+  </template>
+</templateSet>
