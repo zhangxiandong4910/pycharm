@@ -33,6 +33,10 @@
   <action id="Images.Editor.FitZoomToWindow">
     <keyboard-shortcut first-keystroke="shift meta p" />
   </action>
+  <action id="ImplementMethods" />
+  <action id="ReformatCode">
+    <keyboard-shortcut first-keystroke="meta i" />
+  </action>
   <action id="Replace" />
   <action id="Run">
     <keyboard-shortcut first-keystroke="shift meta r" />
