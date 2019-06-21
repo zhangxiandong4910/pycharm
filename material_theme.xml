@@ -5,10 +5,11 @@
     <option name="pristineConfig" value="false" />
     <option name="treeFontSizeEnabled" value="true" />
     <option name="tabFontSizeEnabled" value="true" />
-    <option name="treeFontSize" value="14" />
+    <option name="treeFontSize" value="19" />
     <option name="tabFontSize" value="18" />
+    <option name="settingsSelectedTab" value="3" />
     <option name="accentColor" value="a1a0e9" />
-    <option name="selectedTheme" value="CUSTOM" />
+    <option name="selectedTheme" value="DRACULA" />
     <option name="userId" value="570e9df1:16a549ca840:-8000" />
     <option name="version" value="3.10.0" />
   </component>
